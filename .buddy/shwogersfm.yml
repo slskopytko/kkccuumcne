@@ -1,0 +1,4 @@
+- pipeline: shwogersfm
+  refs:
+  - refs/heads/master
+  on: CLICK
